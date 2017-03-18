@@ -1,0 +1,25 @@
+{
+  "name": "lastfm.js",
+  "version": "1.0.0",
+  "description": "commonjs wrapper over https://github.com/fxb/javascript-last.fm-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutantcornholio/javascript-last.fm-api.git"
+  },
+  "keywords": [
+    "last.fm"
+  ],
+  "author": "Cornholio <0@mcornholio.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mutantcornholio/javascript-last.fm-api/issues"
+  },
+  "homepage": "https://github.com/mutantcornholio/javascript-last.fm-api#readme",
+  "dependencies": {
+    "js-md5": "^0.4.2"
+  }
+}
